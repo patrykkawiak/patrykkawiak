@@ -1,51 +1,55 @@
-
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F79513&center=true&width=435&lines=Hello%2C+I'm+Patryk+Kawiak;Frontend+Developer;Websites+%26+Apps+creator" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F79513&center=true&width=435&lines=Hello%2C+I'm+Patryk+Kawiak;Frontend+Developer;Angular+%26+TypeScript" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Welcome to my Github Profile</h3>
-<h5 align="center">Check my all projects...</h5>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patrykkawiak&color=blue" alt="" />
-  <img src="https://img.shields.io/github/followers/patrykkawiak?color=orange" alt="" />
-  <img src="https://img.shields.io/badge/Top_Language-Javascript-yellow" alt="" />
-  <img src="https://img.shields.io/badge/JS_Framework-Angular & SvelteKit-skyblue" alt="" />
-  <img src="https://img.shields.io/badge/Commercial_Experience-Yes-green" alt="" />
- </p>
-
- ## About Me 
-
-
- 🌍 Building Websites and Web Apps
-
-⚡️ Working...
-
-  #### Also Check My Portfolio
-  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/)
-
-## Techstack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,js,react,angular,svelte,nextjs,redux,sass,figma,firebase,prisma,git,github,gulp,mongodb"></p>
-
-## Top Respositorys
+<h3 align="center">Welcome to my GitHub Profile</h3>
+<h5 align="center">Kwidzyn, Poland · Frontend Developer</h5>
 
 <p align="center">
-     <a href="https://github.com/patrykkawiak/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/patrykkawiak/ELBO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=ELBO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/patrykkawiak/RecruitmentApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=patrykkawiak&repo=RecruitmentApp&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+ <img src="https://komarev.com/ghpvc/?username=patrykkawiak&color=blue" alt="" />
+ <img src="https://img.shields.io/github/followers/patrykkawiak?color=orange" alt="" />
+ <img src="https://img.shields.io/badge/Top_Language-TypeScript-blue" alt="" />
+ <img src="https://img.shields.io/badge/Framework-Angular-red" alt="" />
+ <img src="https://img.shields.io/badge/Commercial_Experience-3_years-green" alt="" />
+</p>
 
+## About Me
 
-## Most Used Languages
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykkawiak&hide_progress=true&theme=dark" alt="" />
-  </p>
+I'm a **Frontend Developer** with **3 years of commercial experience** in the **Angular** ecosystem. Since late 2023 I've been working on [**ONYX TMS**](https://onyxtms.com/pl/) — a transport management platform that helps logistics companies plan routes, manage fleets, handle orders, and keep everyday operations in one place.
 
-## Profile Stats
+**Languages:** Polish (native) · English (B2) · German (A2)
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrykkawiak&hide=contribs,prs&theme=dark" alt="" />
-  </p>
+## Contact
 
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-patrykkawiak.vercel.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-kawiak-33b89627b)
+[![email](https://img.shields.io/badge/Email-patryk.kawiak@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patryk.kawiak@icloud.com)
 
+## Tech Stack
+
+**Frontend:** Angular · RxJS · Angular Signals · NgRx · Angular CDK · REST API · NestJS · SCSS · HTML5 · UI/UX
+
+**Languages:** TypeScript · JavaScript
+
+**Tools:** Nx Monorepo · Storybook · Figma · Playwright · Jira · GitLab · GitHub · Supabase · VS Code · Cursor
+
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=vscode,ts,js,angular,nestjs,sass,figma,git,github,gitlab,supabase" alt="Tech stack icons" />
+ <img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="48" width="48" alt="Cursor" />
+</p>
+
+## Education
+
+**WSB Merito University** — Computer Science (B.Eng.), Frontend Developer specialization · 10.2023 - Present
+
+**Zespół Szkół nr 1, Kwidzyn** — IT Technician · 09.2019 - 05.2023
+
+## Work Experience
+
+**Frontend Developer** · [ONYX TMS](https://onyxtms.com/pl/) · 10.2023 - Present
+
+Building a **TMS (Transport Management System)** for fleet management, logistics orders, and billing. Working with **Angular**, **REST API**, custom **design system** & **Storybook**, **Scrum**, and **AI-assisted** debugging.
+
+**Frontend Developer (Freelance)** · B2B projects · 04.2023 - 10.2023
+
+Design in **Figma**, responsive implementation, and production deployments — including [gluszkiewicz.pl](https://gluszkiewicz.pl/) and [elbokwidzyn.pl](https://elbokwidzyn.pl/). And more...
